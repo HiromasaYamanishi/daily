@@ -3,3 +3,7 @@ torchvision==0.11.3+cu113
 lxml
 somoclu
 sklearn
+pyshp
+geojson
+pyproj
+shapely

@@ -7,3 +7,7 @@
 | 6/27 | JustK | 20newsgroupをTfidfとRidgeClassifierで分類
 |6/28 | DiceSum | 自己組織化マップ(somoclu)チュートリアル|
 |6/29 | Cylinder | graph-toolによるコミュニティ分割(失敗)|
+|6/30 | Coupon | graph-toolのproperty map | 
+|0701 | PolyDiv | 統計量の計算 |
+|0702 | ChooseElement | 20newsgroupの単語二部グラフの作成 |
+|0703 | 250likeNumber | olivetti_faceデータセットをsklearnで色々分類 |
